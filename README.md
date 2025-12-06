@@ -55,12 +55,12 @@ If a solution reads from `input.txt` in the same folder it will use that file by
 
     click  here for solutions: [part-1](/2025/day-01/part-1.py) , [part-2](/2025/day-01/part-2.py)
 
-<!-- ### ☃︎ [Day 2: Gift Shop ](https://adventofcode.com/2025/day/2)
+### ☃︎ [Day 2: Gift Shop ](https://adventofcode.com/2025/day/2)
 
-- **Part 1**: Find invalid product IDs that are a pattern repeated exactly twice
-- **Part 2**: Find invalid product IDs where any sequence of digits is repeated at least twice
+  - **Part 1**: Find invalid product IDs that are a pattern repeated exactly twice
+  - **Part 2**: Find invalid product IDs where any sequence of digits is repeated at least twice
 
-  click  here for [solution!](/2025/day-02/part-1.py) -->
+    click  here for solutions: [part-1](/2025/day-02/part-1.py) , [part-2](/2025/day-02/part-2.py)
 
 ## Contribution
 
