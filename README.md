@@ -2,6 +2,8 @@
 
 > This repository contains my solutions for Advent of Code puzzles. Each day's puzzle is stored in a separate folder under the year (for example, `2025/day-01`). Solutions are implemented in Python and include the puzzle input file where applicable.
 
+![cover_img](/assets/cover_img.png)
+
 ## About AOC
 
 [Advent of Code](https://adventofcode.com/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. One programming puzzle a day is released from 1st to 25th December, divided in two parts (the second of which is unlocked after solving the first). Advent of Code is created by [Eric Wastl](https://was.tl/), and is 100% free.
